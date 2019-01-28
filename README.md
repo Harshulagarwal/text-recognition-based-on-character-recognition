@@ -1,0 +1,1 @@
+# text-recognition-based-on-character-recognition
